@@ -42,13 +42,13 @@ The project focuses on practicing React fundamentals by building a user interfac
 1. Clone the repository:
 
    ```bash
-   git clone <https://github.com/AhmedElazab1/Project-Management-APP.git>
+   git clone https://github.com/AhmedElazab1/Project-Management-APP.git
    ```
 
 2. Navigate to the project directory:
 
    ```bash
-   cd <01-starting-project>
+   cd .\01-starting-project\
    ```
 
 3. Install dependencies:
